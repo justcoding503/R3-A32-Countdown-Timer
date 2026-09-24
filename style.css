@@ -1,0 +1,15 @@
+#container{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    display: inline-block;
+    padding: 0px;
+    margin: 150px auto;
+}
+body{
+    background: linear-gradient(90deg, rgb(231, 133, 149), rgb(175, 50, 71), rgb(218, 46, 74), red);
+    background-size: 200% 100%;
+    
+}
+
+
